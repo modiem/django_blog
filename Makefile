@@ -25,7 +25,7 @@ update_database:
 clean:
 	@rm -fr */__pycache__
 	@rm -fr __pycache__
-	@rm -fr blog/*/__pycache__
+	@rm -fr */*/__pycache__
 	@rm -fr */.ipynb_checkpoints
 	@rm -fr .ipynb_checkpoints
 
