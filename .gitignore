@@ -2,4 +2,4 @@ reference
 db.sqlite3
 
 */__pycache__/
-blog/*/__pycache__/
+*/*/__pycache__/
